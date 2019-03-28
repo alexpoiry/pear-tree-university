@@ -6,6 +6,8 @@ I really enjoyed college. Unfortunately, all good things must come to an end and
 
 ### History
 
+[History Syllabus](/History/HIST_COURSE_OF_STUDY.md)
+
 ### German
 
 ### Computer Information Science
